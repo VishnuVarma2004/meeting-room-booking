@@ -1,4 +1,4 @@
-# 🏢 Office Meeting Room Booking System
+#  Office Meeting Room Booking System
 
 > A full-stack web application to manage and book meeting rooms efficiently with real-time availability and conflict prevention
 
@@ -30,10 +30,8 @@ This project solves that problem by providing a centralized system where users c
 | Tools       | Git, GitHub       |
 
 
-## 📸 Screenshots
 
-
-## ⚙️ How to Run the Project
+ How to Run the Project
 
 ### 🔹 Backend (Spring Boot)
 1. Open project in IntelliJ / Eclipse  
